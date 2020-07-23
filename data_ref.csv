@@ -4,13 +4,13 @@ x;y;sp;ref;obs
 -49.08;-27.06;Anoura caudifer;Muylaert et al.;2017
 -49.185358;-27.109626;Anoura caudifer;Muylaert et al.;2017
 -49.25528;-28.48361;Anoura caudifer;Muylaert et al.;2017
--49.525556;-28.489444;Anoura caudifer;UNESC;-
--48.794167;-26.471667;Anoura caudifer;UNESC;-
--49.432222;-28.69;Anoura caudifer;UNESC;-
--48.788333;-26.099167;Anoura caudifer;UNESC;-
--49.444167;-26.591944;Anoura caudifer;UNESC;-
--49.928611;-28.788333;Anoura caudifer;UNESC;-
--49.266667;-28.533333;Anoura caudifer;UNESC;-
+-49.525556;-28.489444;Anoura caudifer;unpublished records made by Fernando Carvalho;-
+-48.794167;-26.471667;Anoura caudifer;unpublished records made by Fernando Carvalho;-
+-49.432222;-28.69;Anoura caudifer;unpublished records made by Fernando Carvalho;-
+-48.788333;-26.099167;Anoura caudifer;unpublished records made by Fernando Carvalho;-
+-49.444167;-26.591944;Anoura caudifer;unpublished records made by Fernando Carvalho;-
+-49.928611;-28.788333;Anoura caudifer;unpublished records made by Fernando Carvalho;-
+-49.266667;-28.533333;Anoura caudifer;unpublished records made by Fernando Carvalho;-
 -48.9795;-27.437029;Anoura caudifer;FURB;-
 -49.1287395;-27.9041185;Anoura caudifer;FURB;-
 -48.66960526;-27.49944032;Anoura caudifer;FURB;-
@@ -114,9 +114,9 @@ x;y;sp;ref;obs
 -49.08;-27.06;Anoura geoffroyi;Muylaert et al.;2017
 -49.185358;-27.109626;Anoura geoffroyi;Muylaert et al.;2017
 -49.25528;-28.48361;Anoura geoffroyi;Muylaert et al.;2017
--48.542222;-27.3;Anoura geoffroyi;UNESC;-
--49.928611;-28.788333;Anoura geoffroyi;UNESC;-
--49.266667;-28.533333;Anoura geoffroyi;UNESC;-
+-48.542222;-27.3;Anoura geoffroyi;unpublished records made by Fernando Carvalho;-
+-49.928611;-28.788333;Anoura geoffroyi;unpublished records made by Fernando Carvalho;-
+-49.266667;-28.533333;Anoura geoffroyi;unpublished records made by Fernando Carvalho;-
 -49.09315;-27.052057;Anoura geoffroyi;FURB;-
 -49.0658025;-26.9195567;Anoura geoffroyi;FURB;-
 -49.0545355;-25.3046032;Anoura geoffroyi;FURB;-
@@ -171,17 +171,17 @@ x;y;sp;ref;obs
 -49.185358;-27.109626;Artibeus fimbriatus;Muylaert et al.;2017
 -53.40998121;-27.36189731;Artibeus fimbriatus;Muylaert et al.;2017
 -49.25528;-28.48361;Artibeus fimbriatus;Muylaert et al.;2017
--48.983333;-28.6;Artibeus fimbriatus;UNESC;-
--48.453889;-27.504444;Artibeus fimbriatus;UNESC;-
--48.690278;-26.871111;Artibeus fimbriatus;UNESC;-
--48.686944;-26.839167;Artibeus fimbriatus;UNESC;-
--48.794167;-26.471667;Artibeus fimbriatus;UNESC;-
--48.613056;-27.409444;Artibeus fimbriatus;UNESC;-
--49.432222;-28.69;Artibeus fimbriatus;UNESC;-
--49.266667;-28.533333;Artibeus fimbriatus;UNESC;-
--49.411389;-28.714167;Artibeus fimbriatus;UNESC;-
--48.552222;-26.18;Artibeus fimbriatus;UNESC;-
--48.935833;-28.604722;Artibeus fimbriatus;UNESC;-
+-48.983333;-28.6;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
+-48.453889;-27.504444;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
+-48.690278;-26.871111;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
+-48.686944;-26.839167;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
+-48.794167;-26.471667;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
+-48.613056;-27.409444;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
+-49.432222;-28.69;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
+-49.266667;-28.533333;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
+-49.411389;-28.714167;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
+-48.552222;-26.18;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
+-48.935833;-28.604722;Artibeus fimbriatus;unpublished records made by Fernando Carvalho;-
 -50.9866047;-27.6270557;Artibeus fimbriatus;FURB;-
 -53.0112648;-27.24547299;Artibeus fimbriatus;FURB;-
 -48.9795;-27.437029;Artibeus fimbriatus;FURB;-
@@ -330,20 +330,20 @@ x;y;sp;ref;obs
 -50.75206644;-27.88195243;Artibeus lituratus;Muylaert et al.;2017
 -49.25528;-28.48361;Artibeus lituratus;Muylaert et al.;2017
 -49.36722222;-28.67444444;Artibeus lituratus;Muylaert et al.;2017
--48.983333;-28.6;Artibeus lituratus;UNESC;-
--49.525556;-28.489444;Artibeus lituratus;UNESC;-
--48.453889;-27.504444;Artibeus lituratus;UNESC;-
--48.690278;-26.871111;Artibeus lituratus;UNESC;-
--48.686944;-26.839167;Artibeus lituratus;UNESC;-
--48.794167;-26.471667;Artibeus lituratus;UNESC;-
--48.613056;-27.409444;Artibeus lituratus;UNESC;-
--49.432222;-28.69;Artibeus lituratus;UNESC;-
--49.309722;-28.781111;Artibeus lituratus;UNESC;-
--49.411389;-28.714167;Artibeus lituratus;UNESC;-
--49.444167;-26.591944;Artibeus lituratus;UNESC;-
--49.266667;-28.533333;Artibeus lituratus;UNESC;-
--48.698611;-26.730556;Artibeus lituratus;UNESC;-
--49.646944;-28.8975;Artibeus lituratus;UNESC;-
+-48.983333;-28.6;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-49.525556;-28.489444;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-48.453889;-27.504444;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-48.690278;-26.871111;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-48.686944;-26.839167;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-48.794167;-26.471667;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-48.613056;-27.409444;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-49.432222;-28.69;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-49.309722;-28.781111;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-49.411389;-28.714167;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-49.444167;-26.591944;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-49.266667;-28.533333;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-48.698611;-26.730556;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
+-49.646944;-28.8975;Artibeus lituratus;unpublished records made by Fernando Carvalho;-
 -52.8599756;-26.8817187;Artibeus lituratus;FURB;-
 -53.0112648;-27.24547299;Artibeus lituratus;FURB;-
 -48.9795;-27.437029;Artibeus lituratus;FURB;-
@@ -551,14 +551,14 @@ x;y;sp;ref;obs
 -49.08;-27.06;Artibeus obscurus;Muylaert et al.;2017
 -49.185358;-27.109626;Artibeus obscurus;Muylaert et al.;2017
 -49.25528;-28.48361;Artibeus obscurus;Muylaert et al.;2017
--49.525556;-28.489444;Artibeus obscurus;UNESC;-
--48.613056;-27.409444;Artibeus obscurus;UNESC;-
--49.432222;-28.69;Artibeus obscurus;UNESC;-
--48.788333;-26.099167;Artibeus obscurus;UNESC;-
--49.266667;-28.533333;Artibeus obscurus;UNESC;-
--48.983333;-28.6;Artibeus obscurus;UNESC;-
--49.646944;-28.8975;Artibeus obscurus;UNESC;-
--49.444167;-26.591944;Artibeus obscurus;UNESC;-
+-49.525556;-28.489444;Artibeus obscurus;unpublished records made by Fernando Carvalho;-
+-48.613056;-27.409444;Artibeus obscurus;unpublished records made by Fernando Carvalho;-
+-49.432222;-28.69;Artibeus obscurus;unpublished records made by Fernando Carvalho;-
+-48.788333;-26.099167;Artibeus obscurus;unpublished records made by Fernando Carvalho;-
+-49.266667;-28.533333;Artibeus obscurus;unpublished records made by Fernando Carvalho;-
+-48.983333;-28.6;Artibeus obscurus;unpublished records made by Fernando Carvalho;-
+-49.646944;-28.8975;Artibeus obscurus;unpublished records made by Fernando Carvalho;-
+-49.444167;-26.591944;Artibeus obscurus;unpublished records made by Fernando Carvalho;-
 -49.09315;-27.052057;Artibeus obscurus;FURB;-
 -48.8545202;-26.0294904;Artibeus obscurus;FURB;-
 -48.9566824;-26.9307306;Artibeus obscurus;FURB;-
@@ -629,7 +629,7 @@ x;y;sp;ref;obs
 -48.64523742;-26.08014768;Artibeus planirostris;Muylaert et al.;2017
 -49.08;-27.06;Artibeus planirostris;Muylaert et al.;2017
 -49.185358;-27.109626;Artibeus planirostris;Muylaert et al.;2017
--48.670278;-26.2775;Artibeus planirostris;UNESC;-
+-48.670278;-26.2775;Artibeus planirostris;unpublished records made by Fernando Carvalho;-
 -48.66960526;-27.49944032;Artibeus planirostris;FURB;-
 -49.09315;-27.052057;Artibeus planirostris;FURB;-
 -48.53343487;-27.73140099;Artibeus planirostris;FURB;-
@@ -669,11 +669,11 @@ x;y;sp;ref;obs
 -49.08;-27.06;Carollia perspicillata;Muylaert et al.;2017
 -49.185358;-27.109626;Carollia perspicillata;Muylaert et al.;2017
 -49.25528;-28.48361;Carollia perspicillata;Muylaert et al.;2017
--48.453889;-27.504444;Carollia perspicillata;UNESC;-
--48.794167;-26.471667;Carollia perspicillata;UNESC;-
--49.444167;-26.591944;Carollia perspicillata;UNESC;-
--49.266667;-28.533333;Carollia perspicillata;UNESC;-
--49.646944;-28.8975;Carollia perspicillata;UNESC;-
+-48.453889;-27.504444;Carollia perspicillata;unpublished records made by Fernando Carvalho;-
+-48.794167;-26.471667;Carollia perspicillata;unpublished records made by Fernando Carvalho;-
+-49.444167;-26.591944;Carollia perspicillata;unpublished records made by Fernando Carvalho;-
+-49.266667;-28.533333;Carollia perspicillata;unpublished records made by Fernando Carvalho;-
+-49.646944;-28.8975;Carollia perspicillata;unpublished records made by Fernando Carvalho;-
 -49.09315;-27.052057;Carollia perspicillata;FURB;-
 -49.11026001;-26.96124577;Carollia perspicillata;FURB;-
 -48.5294135;-27.1793352;Carollia perspicillata;FURB;-
@@ -789,7 +789,7 @@ x;y;sp;ref;obs
 -48.519167;-25.785;Chiroderma doriae;Muylaert et al.;2017
 -48.64523742;-26.08014768;Chiroderma doriae;Muylaert et al.;2017
 -49.08;-27.06;Chiroderma doriae;Muylaert et al.;2017
--48.542222;-27.3;Chiroderma doriae;UNESC;-
+-48.542222;-27.3;Chiroderma doriae;unpublished records made by Fernando Carvalho;-
 -48.66960526;-27.49944032;Chiroderma doriae;FURB;-
 -49.09315;-27.052057;Chiroderma doriae;FURB;-
 -49.114639;-26.865036;Chiroderma doriae;FURB;-
@@ -882,9 +882,9 @@ x;y;sp;ref;obs
 -51.59;-25.91;Desmodus rotundus;Muylaert et al.;2017
 -49.08;-27.06;Desmodus rotundus;Muylaert et al.;2017
 -49.25528;-28.48361;Desmodus rotundus;Muylaert et al.;2017
--48.613056;-27.409444;Desmodus rotundus;UNESC;-
--49.266667;-28.533333;Desmodus rotundus;UNESC;-
--48.983333;-28.6;Desmodus rotundus;UNESC;-
+-48.613056;-27.409444;Desmodus rotundus;unpublished records made by Fernando Carvalho;-
+-49.266667;-28.533333;Desmodus rotundus;unpublished records made by Fernando Carvalho;-
+-48.983333;-28.6;Desmodus rotundus;unpublished records made by Fernando Carvalho;-
 -50.9866047;-27.6270557;Desmodus rotundus;FURB;-
 -48.9795;-27.437029;Desmodus rotundus;FURB;-
 -49.1287395;-27.9041185;Desmodus rotundus;FURB;-
@@ -990,14 +990,14 @@ x;y;sp;ref;obs
 -49.207217;-25.231667;Desmodus rotundus;Portal_Da_Biodiversidade;793763
 -49.378333;-26.25;Desmodus rotundus;Portal_Da_Biodiversidade;956739
 -50.313972;-25.852606;Desmodus rotundus;Portal_Da_Biodiversidade;97446
--50;-25.416667;Diaemus youngi;Miretzki;2003
--54.65;-27.033333;Diaemus youngi;Barquez;1999
--53.878976;-25.458903;Diaemus youngi;Sekiama et al;2001
+-50;-25.416667;Diaemus youngii;Miretzki;2003
+-54.65;-27.033333;Diaemus youngii;Barquez;1999
+-53.878976;-25.458903;Diaemus youngii;Sekiama et al;2001
 -48.808;-25.383;Diphylla ecaudata;Muylaert et al.;2017
 -48.91900376;-25.4405836;Diphylla ecaudata;Muylaert et al.;2017
 -48.716667;-25.75;Diphylla ecaudata;Muylaert et al.;2017
 -49.25528;-28.48361;Diphylla ecaudata;Muylaert et al.;2017
--48.788333;-26.099167;Diphylla ecaudata;UNESC;-
+-48.788333;-26.099167;Diphylla ecaudata;unpublished records made by Fernando Carvalho;-
 -48.66960526;-27.49944032;Diphylla ecaudata;FURB;-
 -49.09315;-27.052057;Diphylla ecaudata;FURB;-
 -48.9566824;-26.9307306;Diphylla ecaudata;FURB;-
@@ -1027,17 +1027,17 @@ x;y;sp;ref;obs
 -48.519167;-25.785;Glossophaga soricina;Muylaert et al.;2017
 -49.072207;-26.902824;Glossophaga soricina;Muylaert et al.;2017
 -49.25528;-28.48361;Glossophaga soricina;Muylaert et al.;2017
--48.453889;-27.504444;Glossophaga soricina;UNESC;-
--48.690278;-26.871111;Glossophaga soricina;UNESC;-
--48.686944;-26.839167;Glossophaga soricina;UNESC;-
--48.794167;-26.471667;Glossophaga soricina;UNESC;-
--49.432222;-28.69;Glossophaga soricina;UNESC;-
--49.928611;-28.788333;Glossophaga soricina;UNESC;-
--49.411389;-28.714167;Glossophaga soricina;UNESC;-
--48.698611;-26.730556;Glossophaga soricina;UNESC;-
--48.552222;-26.18;Glossophaga soricina;UNESC;-
--48.983333;-28.6;Glossophaga soricina;UNESC;-
--48.935833;-28.604722;Glossophaga soricina;UNESC;-
+-48.453889;-27.504444;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
+-48.690278;-26.871111;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
+-48.686944;-26.839167;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
+-48.794167;-26.471667;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
+-49.432222;-28.69;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
+-49.928611;-28.788333;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
+-49.411389;-28.714167;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
+-48.698611;-26.730556;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
+-48.552222;-26.18;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
+-48.983333;-28.6;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
+-48.935833;-28.604722;Glossophaga soricina;unpublished records made by Fernando Carvalho;-
 -49.114639;-26.865036;Glossophaga soricina;FURB;-
 -48.4973733;-27.2041883;Glossophaga soricina;FURB;-
 -49.252428;-26.427656;Glossophaga soricina;FURB;-
@@ -1111,7 +1111,7 @@ x;y;sp;ref;obs
 -49.378333;-26.25;Glyphonycteris sylvestris;Portal_Da_Biodiversidade;956833
 -48.808;-25.383;Lampronycteris brachyotis;Muylaert et al.;2017
 -48.283331;-25.15;Lampronycteris brachyotis;Portal_Da_Biodiversidade;549253
--48.788333;-26.099167;Micronycteris megalotis;UNESC;-
+-48.788333;-26.099167;Micronycteris megalotis;unpublished records made by Fernando Carvalho;-
 -49.09315;-27.052057;Micronycteris megalotis;FURB;-
 -48.50532532;-27.61540601;Micronycteris megalotis;FURB;-
 -48.551539;-27.316626;Micronycteris megalotis;FURB;-
@@ -1128,8 +1128,8 @@ x;y;sp;ref;obs
 -48.808;-25.383;Micronycteris microtis;Muylaert et al.;2017
 -48.536147;-27.748969;Mimon bennettii;FURB;-
 -48.508023;-27.720043;Mimon bennettii;FURB;-
--48.453889;-27.504444;Mimon bennettii;UNESC;-
--48.542222;-27.3;Mimon bennettii;UNESC;-
+-48.453889;-27.504444;Mimon bennettii;unpublished records made by Fernando Carvalho;-
+-48.542222;-27.3;Mimon bennettii;unpublished records made by Fernando Carvalho;-
 -48.66960526;-27.49944032;Mimon bennettii;FURB;-
 -49.09315;-27.052057;Mimon bennettii;FURB;-
 -49.485014;-26.713041;Mimon bennettii;FURB;-
@@ -1187,7 +1187,7 @@ x;y;sp;ref;obs
 -48.808;-25.383;Platyrrhinus recifinus;Muylaert et al.;2017
 -48.91900376;-25.4405836;Platyrrhinus recifinus;Muylaert et al.;2017
 -49.25528;-28.48361;Platyrrhinus recifinus;Muylaert et al.;2017
--48.453889;-27.504444;Platyrrhinus recifinus;UNESC;-
+-48.453889;-27.504444;Platyrrhinus recifinus;unpublished records made by Fernando Carvalho;-
 -48.7684715;-27.5168462;Platyrrhinus recifinus;FURB;-
 -48.7584715;-27.5368462;Platyrrhinus recifinus;FURB;-
 -48.93949986;-26.88020099;Platyrrhinus recifinus;FURB;-
@@ -1205,8 +1205,8 @@ x;y;sp;ref;obs
 -49.185358;-27.109626;Pygoderma bilabiatum;Muylaert et al.;2017
 -53.40998121;-27.36189731;Pygoderma bilabiatum;Muylaert et al.;2017
 -49.25528;-28.48361;Pygoderma bilabiatum;Muylaert et al.;2017
--48.983333;-28.6;Pygoderma bilabiatum;UNESC;-
--49.432222;-28.69;Pygoderma bilabiatum;UNESC;-
+-48.983333;-28.6;Pygoderma bilabiatum;unpublished records made by Fernando Carvalho;-
+-49.432222;-28.69;Pygoderma bilabiatum;unpublished records made by Fernando Carvalho;-
 -53.0112648;-27.24547299;Pygoderma bilabiatum;FURB;-
 -48.9795;-27.437029;Pygoderma bilabiatum;FURB;-
 -49.09315;-27.052057;Pygoderma bilabiatum;FURB;-
@@ -1294,20 +1294,20 @@ x;y;sp;ref;obs
 -53.40998121;-27.36189731;Sturnira lilium;Muylaert et al.;2017
 -50.75206644;-27.88195243;Sturnira lilium;Muylaert et al.;2017
 -49.25528;-28.48361;Sturnira lilium;Muylaert et al.;2017
--48.983333;-28.6;Sturnira lilium;UNESC;-
--49.525556;-28.489444;Sturnira lilium;UNESC;-
--48.453889;-27.504444;Sturnira lilium;UNESC;-
--48.690278;-26.871111;Sturnira lilium;UNESC;-
--48.686944;-26.839167;Sturnira lilium;UNESC;-
--48.794167;-26.471667;Sturnira lilium;UNESC;-
--49.432222;-28.69;Sturnira lilium;UNESC;-
--49.309722;-28.781111;Sturnira lilium;UNESC;-
--49.411389;-28.714167;Sturnira lilium;UNESC;-
--49.444167;-26.591944;Sturnira lilium;UNESC;-
--49.266667;-28.533333;Sturnira lilium;UNESC;-
--48.698611;-26.730556;Sturnira lilium;UNESC;-
--49.646944;-28.8975;Sturnira lilium;UNESC;-
--48.935833;-28.604722;Sturnira lilium;UNESC;-
+-48.983333;-28.6;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-49.525556;-28.489444;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-48.453889;-27.504444;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-48.690278;-26.871111;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-48.686944;-26.839167;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-48.794167;-26.471667;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-49.432222;-28.69;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-49.309722;-28.781111;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-49.411389;-28.714167;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-49.444167;-26.591944;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-49.266667;-28.533333;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-48.698611;-26.730556;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-49.646944;-28.8975;Sturnira lilium;unpublished records made by Fernando Carvalho;-
+-48.935833;-28.604722;Sturnira lilium;unpublished records made by Fernando Carvalho;-
 -50.9866047;-27.6270557;Sturnira lilium;FURB;-
 -52.8599756;-26.8817187;Sturnira lilium;FURB;-
 -53.0112648;-27.24547299;Sturnira lilium;FURB;-
@@ -1550,8 +1550,8 @@ x;y;sp;ref;obs
 -48.716667;-25.75;Sturnira tildae;Muylaert et al.;2017
 -51.59;-25.91;Sturnira tildae;Muylaert et al.;2017
 -49.08;-27.06;Sturnira tildae;Muylaert et al.;2017
--48.794167;-26.471667;Sturnira tildae;UNESC;-
--48.670278;-26.2775;Sturnira tildae;UNESC;-
+-48.794167;-26.471667;Sturnira tildae;unpublished records made by Fernando Carvalho;-
+-48.670278;-26.2775;Sturnira tildae;unpublished records made by Fernando Carvalho;-
 -49.09315;-27.052057;Sturnira tildae;FURB;-
 -49.252428;-26.427656;Sturnira tildae;FURB;-
 -48.9566824;-26.9307306;Sturnira tildae;FURB;-
@@ -1601,8 +1601,8 @@ x;y;sp;ref;obs
 -49.08;-27.06;Vampyressa pusilla;Muylaert et al.;2017
 -49.185358;-27.109626;Vampyressa pusilla;Muylaert et al.;2017
 -49.25528;-28.48361;Vampyressa pusilla;Muylaert et al.;2017
--49.432222;-28.69;Vampyressa pusilla;UNESC;-
--49.928611;-28.788333;Vampyressa pusilla;UNESC;-
+-49.432222;-28.69;Vampyressa pusilla;unpublished records made by Fernando Carvalho;-
+-49.928611;-28.788333;Vampyressa pusilla;unpublished records made by Fernando Carvalho;-
 -53.0112648;-27.24547299;Vampyressa pusilla;FURB;-
 -48.66960526;-27.49944032;Vampyressa pusilla;FURB;-
 -49.09315;-27.052057;Vampyressa pusilla;FURB;-
